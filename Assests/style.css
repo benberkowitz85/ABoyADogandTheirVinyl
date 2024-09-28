@@ -87,6 +87,11 @@ section-intro {
   text-decoration: underline;
 }
 
+html, body { 
+  height: 100px;
+  background-color:lightslategray;
+} 
+
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
   width: 40%; /* Full width */
